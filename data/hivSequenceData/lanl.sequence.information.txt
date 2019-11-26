@@ -1,0 +1,596 @@
+HIV Databases
+HIV sequence database
+DATABASES
+
+<https://www.hiv.lanl.gov/content/index> Sequence DB
+
+<https://www.hiv.lanl.gov/content/sequence/HIV/mainpage.html> Immunology DB
+
+<https://www.hiv.lanl.gov/content/immunology/index> Vaccine DB
+
+<https://www.hiv.lanl.gov/content/vaccine/home.html> HCV DB
+
+<http://hcv.lanl.gov/> HFV DB
+
+<http://hfv.lanl.gov/>
+SEARCH
+
+<https://www.hiv.lanl.gov/components/sequence/HIV/search/search.html>
+Search DB
+
+<https://www.hiv.lanl.gov/components/sequence/HIV/search/search.html>
+Advanced Search
+
+<https://www.hiv.lanl.gov/components/sequence/HIV/asearch/map_db.comp>
+Intra-patient Search
+
+<https://www.hiv.lanl.gov/components/sequence/HIV/ipsearch/IPsearch.html> Next-gen
+Sequences
+
+<https://www.hiv.lanl.gov/components/sequence/HIV/sra/sra.comp> Geography
+
+<https://www.hiv.lanl.gov/components/sequence/HIV/geo/geo.comp>
+ALIGNMENTS
+
+<https://www.hiv.lanl.gov/content/sequence/NEWALIGN/align.html> Curated
+Alignments
+
+<https://www.hiv.lanl.gov/content/sequence/NEWALIGN/align.html> Special
+Interest
+Alignments
+
+<https://www.hiv.lanl.gov/content/sequence/HIV/SI_alignments/datasets.html>
+TOOLS
+
+<https://www.hiv.lanl.gov/content/sequence/HIV/HIVTools.html>
+Index of all tools
+
+<https://www.hiv.lanl.gov/content/sequence/HIV/HIVTools.html>	Heatmap
+
+<https://www.hiv.lanl.gov/content/sequence/HEATMAP/heatmap_mainpage.html>	Protein
+Feature
+Accent
+
+<https://www.hiv.lanl.gov/content/sequence/PROTVIS/html/protvis.html>
+Alignment Slicer
+
+<https://www.hiv.lanl.gov/content/sequence/Slice_Align/index.html>	Hepitope
+
+<https://www.hiv.lanl.gov/content/immunology/hepitopes/index.html>
+Quality Control
+
+<https://www.hiv.lanl.gov/content/sequence/QC/index.html>
+AnalyzeAlign
+
+<https://www.hiv.lanl.gov/content/sequence/ANALYZEALIGN/analyze_align.html>
+Highlighter
+
+<https://www.hiv.lanl.gov/content/sequence/HIGHLIGHT/highlighter_top.html>
+QuickAlign
+
+<https://www.hiv.lanl.gov/content/sequence/QUICK_ALIGNv2/QuickAlign.html>
+AnnotateTree
+
+<https://www.hiv.lanl.gov/content/sequence/ANNOTATETREE/annotatetree.html>
+HIV BLAST
+
+<https://www.hiv.lanl.gov/content/sequence/BASIC_BLAST/basic_blast.html>	Rainbow
+Tree
+
+<https://www.hiv.lanl.gov/content/sequence/RAINBOWTREE/rainbowtree.html>
+Branchlength
+
+<https://www.hiv.lanl.gov/content/sequence/BRANCHLENGTH/branchlength.html>
+HIVAlign
+
+<https://www.hiv.lanl.gov/content/sequence/VIRALIGN/viralign.html>
+Recombinant HIV-1
+Drawing Tool
+
+<https://www.hiv.lanl.gov/content/sequence/DRAW_CRF/recom_mapper.html>
+CATNAP
+
+<https://www.hiv.lanl.gov/components/sequence/HIV/neutralization/index.html>
+Hypermut
+
+<https://www.hiv.lanl.gov/content/sequence/HYPERMUT/hypermut.html>	RIP
+
+<https://www.hiv.lanl.gov/content/sequence/RIP/RIP.html>
+Codon Alignment
+
+<https://www.hiv.lanl.gov/content/sequence/CodonAlign/codonalign.html>
+IQ-TREE
+
+<https://www.hiv.lanl.gov/content/sequence/IQTREE/iqtree.html>	SeqPublish
+
+<https://www.hiv.lanl.gov/content/sequence/SeqPublish/seqpublish.html>
+CombiNAber
+
+<https://www.hiv.lanl.gov/content/sequence/COMBINABER/combinaber.html>
+jpHMM at GOBICS
+
+<http://jphmm.gobics.de/>	Sequence Locator
+
+<https://www.hiv.lanl.gov/content/sequence/LOCATE/locate.html>
+Consensus Maker
+
+<https://www.hiv.lanl.gov/content/sequence/CONSENSUS/consensus.html>
+Mosaic Vaccine
+Tool Suite
+
+<https://www.hiv.lanl.gov/content/sequence/MOSAIC/>	SNAP
+
+<https://www.hiv.lanl.gov/content/sequence/SNAP/SNAP.html>
+ELF
+
+<https://www.hiv.lanl.gov/content/sequence/ELF/epitope_analyzer.html>
+Motif Scan
+
+<https://www.hiv.lanl.gov/content/immunology/motif_scan/motif_scan>	SUDI
+Subtyping
+
+<https://www.hiv.lanl.gov/content/sequence/SUDI/sudi.html>
+ElimDupes
+
+<https://www.hiv.lanl.gov/content/sequence/ELIMDUPES/elimdupes.html>
+N-Glycosite
+
+<https://www.hiv.lanl.gov/content/sequence/GLYCOSITE/glycosite.html>
+SynchAlign
+
+<https://www.hiv.lanl.gov/content/sequence/SYNCH_ALIGNS/SynchAligns.html>
+Entropy
+
+<https://www.hiv.lanl.gov/content/sequence/ENTROPY/entropy.html>	PCOORD
+
+<https://www.hiv.lanl.gov/content/sequence/PCOORD/PCOORD.html>	Translate
+
+<https://www.hiv.lanl.gov/content/sequence/TRANSLATE/translate.html>
+Epigraph
+
+<https://www.hiv.lanl.gov/content/sequence/EPIGRAPH/epigraph.html>	PepMap
+
+<https://www.hiv.lanl.gov/content/sequence/PepMap/pepmap.html>	TreeMaker
+
+<https://www.hiv.lanl.gov/components/sequence/HIV/treemaker/treemaker.html>
+FindModel
+
+<https://www.hiv.lanl.gov/content/sequence/findmodel/findmodel.html>	PeptGen
+
+<https://www.hiv.lanl.gov/content/sequence/PEPTGEN/peptgen.html>	TreeRate
+
+<https://www.hiv.lanl.gov/content/sequence/TREERATEv2/treerate.html>
+Format Converter
+
+<https://www.hiv.lanl.gov/content/sequence/FORMAT_CONVERSION/form.html>
+PhyloPlace
+
+<https://www.hiv.lanl.gov/content/sequence/phyloplace/PhyloPlace.html>
+Variable Region Characteristics
+
+<https://www.hiv.lanl.gov/content/sequence/VAR_REG_CHAR/index.html>
+Gap Strip/Squeeze
+
+<https://www.hiv.lanl.gov/content/sequence/GAPSTREEZE/gap.html>	PhyML
+
+<https://www.hiv.lanl.gov/content/sequence/PHYML/interface.html>	VESPA
+
+<https://www.hiv.lanl.gov/content/sequence/VESPA/vespa.html>
+GenBank Entry Generation
+
+<https://www.hiv.lanl.gov/content/sequence/GENBANK/genbank.html>	Pixel
+
+<https://www.hiv.lanl.gov/content/sequence/pixel/pixel.html>	External Tools
+
+<https://www.hiv.lanl.gov/content/sequence/HIV/links.html>
+Gene Cutter
+
+<https://www.hiv.lanl.gov/content/sequence/GENE_CUTTER/cutter.html>
+Poisson-Fitter
+
+<https://www.hiv.lanl.gov/content/sequence/POISSON_FITTER/pfitter.html>	
+
+Genome Browser
+
+<https://www.hiv.lanl.gov/content/sequence/genome_browser/browser.html>
+PrimerDesign-M
+
+<https://www.hiv.lanl.gov/content/sequence/PRIMER_DESIGN/primer_design.html>
+
+
+PUBLICATIONS
+
+<https://www.hiv.lanl.gov/content/sequence/HIV/COMPENDIUM/compendium.html>
+Compendium
+Downloads
+
+<https://www.hiv.lanl.gov/content/sequence/HIV/COMPENDIUM/compendium.html>
+Compendium
+Review Articles
+
+<https://www.hiv.lanl.gov/content/sequence/HIV/REVIEWS/reviews.html>
+GUIDES
+
+<https://www.hiv.lanl.gov/content/sequence/TUTORIALS/Tutorials.html>
+Tutorials
+
+<https://www.hiv.lanl.gov/content/sequence/TUTORIALS/Tutorials.html> CRFs
+
+<https://www.hiv.lanl.gov/content/sequence/HIV/CRFs/CRFs.html> HIV-1
+Gene Map
+
+<https://www.hiv.lanl.gov/content/sequence/HIV/MAP/landmark.html>
+In-depth Annotation
+
+<https://www.hiv.lanl.gov/content/sequence/HIV/MAP/annotation.html>
+Neutralizing Antibody
+Resources & CATNAP
+
+<https://www.hiv.lanl.gov/content/immunology/neutralizing_ab_resources.html>
+3D Structure
+
+<https://www.hiv.lanl.gov/content/sequence/STRUCTURE/INDEX.HTML> Data
+Dictionary
+
+<https://www.hiv.lanl.gov/content/sequence/HIV/data_dictionary/data_dictionary.html>
+How to Cite
+this Database
+
+<https://www.hiv.lanl.gov/content/sequence/HIV/refer.html> HIV Database News
+
+<https://www.hiv.lanl.gov/components/news/old_news.html> FAQs
+
+<https://www.hiv.lanl.gov/content/sequence/HIV/FAQ.html> Links
+
+<https://www.hiv.lanl.gov/content/sequence/HIV/links.html>
+
+
+
+
+  HIV Sequence Alignments
+
+  * *Web Alignments <#web>* are nucleotide and protein alignments that
+    represent the fullest spectrum of sequences in the database.
+  * *Filtered Web Alignments <#filter>* are a filtered subset of
+    sequences from the HIV-1 web alignments.
+  * *Subtype Reference Alignments <#ref>* contain approximately 4
+    representatives of each subtype.
+  * *Compendium Alignments <#comp>* are the subset of sequences printed
+    in the HIV Sequence Compendium
+    <https://www.hiv.lanl.gov/content/sequence/HIV/COMPENDIUM/compendium.html>.
+
+  * *Consensus/Ancestral Sequences <#consensus>* include a consensus for
+    each subtype, an M-group consensus-of-consensuses, and some
+    ancestral sequences.
+  * *RIP Alignment* <#RIP> contains a consensus for each subtype and
+    reference sequences for all groups, subtypes, and CRFs.
+
+Before use, please read the additional information below.
+Options
+Alignment type 	
+
+Organism	
+
+Region 	Pre-defined region of the genome        
+
+
+User-defined range **       Start:    End:    (Coordinates: HIV1-HXB2
+<https://www.hiv.lanl.gov/content/sequence/HIV/MAP/landmark.html>,
+HIV2-Mac239
+<https://www.hiv.lanl.gov/content/sequence/HIV/REVIEWS/SIV_NUMBERING2001/SivNumbering.html>)
+
+Subtype 	
+
+DNA/Protein 	
+
+Year * 	
+
+Format 	
+
+
+
+* “2008” alignment contains sequences published before 2009. The
+Compendia
+<https://www.hiv.lanl.gov/content/sequence/HIV/COMPENDIUM/compendium.html>
+are published the year after the sequences were published, so the 2008
+alignment appears in the 2009 compendium.
+
+** User-defined ranges are clipped from a genome alignment. This option
+is available only when genome alignments available .
+
+
+
+------------------------------------------------------------------------
+
+
+    Web Alignments
+
+
+        What sequences are included
+
+These alignments are complete, meaning that they contain all sequences
+we have in the database, with some exceptions:
+
+  * Only one sequence per patient
+    <https://www.hiv.lanl.gov/components/sequence/HIV/search/help.html#one_per_patient>
+    is included.
+  * Very similar sequences have been deleted. The cut-off for deleting
+    similar sequences has been determined by looking at the distance
+    distribution, and varies by gene.
+  * Problematic sequences
+    <https://www.hiv.lanl.gov/components/sequence/HIV/search/help.html#bad_seq>
+    are removed.
+
+
+        How the sequences are aligned
+
+These alignments were generated by an iterative process between
+automated alignment using HMMER and manual editing using MASE, BioEdit
+or Se-Al. Most gaps have been introduced in multiples of 3 bases to
+maintain open reading frames. Any alignment is a compromise between
+optimal alignment, readability, and an attempt to keep codons intact. In
+particular the 'Other SIV' sequences are difficult to align, so please
+consider these as a starting point for your analyses.
+
+
+        Further details
+
+Codons containing IUPAC
+<https://www.hiv.lanl.gov/content/sequence/HelpDocs/IUPAC.html>
+multistate characters involved in silent substitutions are translated to
+the correct amino acids; when this is not possible, they are translated
+to 'X'.
+
+The protein alignments provided for each gene were constructed using
+both nucleotide and translated amino acid sequences. Because the
+translations are based on alignments, they may differ from a straight,
+non-aligned, translation. For instance, an aligned translation will
+include frameshift compensation.
+
+For all genome and single-gene DNA alignments, we have tried to keep the
+reading frame intact. However, this doesn't always work out. Be cautious
+when translating the aligned nucleotide sequences.
+
+Sequences that are known to be recombinants are usually labeled as such,
+even if they are not recombinant in the region under consideration.
+
+
+        Relevant links
+
+Codes and Symbols in Sequence Alignments
+<https://www.hiv.lanl.gov/content/sequence/HelpDocs/IUPAC.html>
+How the HIV Database Classifies Sequence Subtypes
+<https://www.hiv.lanl.gov/content/sequence/HelpDocs/classification.html>
+
+
+
+------------------------------------------------------------------------
+
+
+    Filtered Web Alignments
+
+
+        What sequences are included
+
+The "filtered alignments" consist of a subset of sequences from the
+original web alignments. Typically 80-95% of the sequences in the
+corresponding Web Alignment are retained. The Filtered Alignments are
+cleaner, but contain less information. They are only available for HIV-1.
+
+
+        Excluded from the filtered genome alignment:
+
+  * Sequences with >1% ambiguity codes
+    <https://www.hiv.lanl.gov/content/sequence/HelpDocs/IUPAC.html>.
+  * Sequences with significant insertions or deletions (by manual curation).
+  * This rule is not applied to group P.
+
+
+        Excluded from the filtered protein region alignments:
+
+  * Sequences with any ambiguity code
+    <https://www.hiv.lanl.gov/content/sequence/HelpDocs/IUPAC.html> that
+    prevents translation of the codon.
+  * Sequences with >1 frameshifts.
+  * Sequences with >1% ambiguity codes
+    <https://www.hiv.lanl.gov/content/sequence/HelpDocs/IUPAC.html>.
+  * Sequences with significant insertions or deletions (by manual curation).
+  * These rules are not applied to group P.
+
+
+
+------------------------------------------------------------------------
+
+
+    Subtype Reference Alignments
+
+
+        What sequences are included
+
+For each subtype, 4 genomes were selected as being broadly
+representative of that subtype. A paper describing the criteria used in
+selecting the 2005 reference sequences is available online as an HTML
+<https://www.hiv.lanl.gov/content/sequence/HIV/REVIEWS/RefSeqs2005/RefSeqs05.html>
+or PDF
+<https://www.hiv.lanl.gov/content/sequence/HIV/COMPENDIUM/2005/RefSeqs05.pdf>
+file.
+
+
+        How the sequences are named
+
+The subtype, country
+<https://www.hiv.lanl.gov/content/sequence/HelpDocs/databasecountrycode.html>,
+and year of isolation are given if they are defined in our database. If
+the sequence name is undefined, the GenBank accession number appears
+instead.
+
+
+        Relevant links
+
+Leitner, et al. 2005
+<https://www.hiv.lanl.gov/content/sequence/HIV/REVIEWS/RefSeqs2005/RefSeqs05.html>,
+a compendium review article describing the 2005 subtype reference set
+Information about HIV and SIV subtype nomenclature
+<https://www.hiv.lanl.gov/content/sequence/HelpDocs/subtypes-more.html>
+How the HIV Database Classifies Sequence Subtypes
+<https://www.hiv.lanl.gov/content/sequence/HelpDocs/classification.html>
+Information about CRFs
+<https://www.hiv.lanl.gov/content/sequence/HIV/CRFs/CRFs.html>
+Codes and Symbols in Sequence Alignments
+<https://www.hiv.lanl.gov/content/sequence/HelpDocs/IUPAC.html>
+
+
+
+------------------------------------------------------------------------
+
+
+    Compendium alignments
+
+The compendium alignments are a carefully-chosen subset of sequences
+from the web alignment that are re-aligned and printed in the HIV
+Sequence Compendium
+<https://www.hiv.lanl.gov/content/sequence/HIV/COMPENDIUM/compendium.html>.
+Because they need to fit in a limited space, this set is limited to ~200
+sequences for HIV-1 and ~100 sequences for HIV-2 and SIV. We try to
+include newer sequences in this set, in addition to subtype reference
+sequences.
+
+
+
+------------------------------------------------------------------------
+
+
+    Consensus/Ancestral Sequences
+
+
+        What sequences are included
+
+We provide consensuses for the M group subtypes A (including A, A1, and
+A2), B, C, D, F (including F1 and F2), and G; the circulating
+recombinant forms CRF01 and CRF02; and group O. We also provide a
+Consensus M-group, which is a consensus of consensus sequences for
+subtypes A, B, C, D, F, G, H. Ancestral sequences are also provided.
+Ancestral sequences are based on the Complete Genome M-group Ancestral
+sequence and its phylogenetic tree. For more details, see M-group
+Consensus Construction
+<https://www.hiv.lanl.gov/content/sequence/HIV/CONSENSUS/M_GROUP/M_group_explanation>
+explanation file.
+
+
+        How the consensus alignments are made
+
+The input alignments are the HIV Sequence Web Alignments. These
+sequences have undergone additional annotation after retrieval.
+Specifically, question marks in consensus sequences have been resolved,
+and glycosylation sites have been aligned. From the input, consensus
+sequences were built using our Consensus Maker
+<https://www.hiv.lanl.gov/content/sequence/CONSENSUS/consensus.html> site.
+
+The consensus sequences were calculated according to the default values
+on the Consensus Maker
+<https://www.hiv.lanl.gov/content/sequence/CONSENSUS/consensus.html>
+tools except that they were computed for all subtypes having 3 or more
+(rather than 4 or more) sequences in the alignment. If a column in a
+subtype group contained equal numbers of two different letters, we
+resolved that tie by looking at the same column throughout the M group
+and using the most common letter as the consensus. An upper case letter
+in a DNA consensus sequence indicates that the nucleotide is preserved
+unanimously in that position in all sequences used to make the
+consensus. In cases of nonunanimity, the most common nucleotide is shown
+in lowercase. Regions spanned by multiple insertions and deletions are
+difficult to align; we attempt to anchor alignments in such regions on
+glycosylation sites, and to preserve the minimal elements that span such
+regions.
+
+
+        How the ancestral sequences are derived
+
+The ancestral tree and sequences were built as described in Ancestral
+Tree Construction
+<https://www.hiv.lanl.gov/content/sequence/HIV/CONSENSUS/PREBUILT/AncestralTree.html>
+explanation file.
+
+
+        Interpreting the format of consensus sequences
+
+An upper case letter in a DNA consensus sequence indicates that the
+nucleotide is preserved in that position in all sequences used to make
+the consensus. A lower case letter is the most common nucleotide in a
+variable position.
+
+PROTEIN sequences are always upper case letters.
+
+The number of sequences used to make the consensus is indicated in
+parentheses following the subtype designation.
+
+
+        Reagent development
+
+Consensus and Ancestral sequences from this web page are suitable for
+reagent development because they do not contain question marks or
+ambiguous characters.
+
+
+        Relevant links
+
+Consensus Maker Tools
+<https://www.hiv.lanl.gov/content/sequence/CONSENSUS/consensus.html>
+allow you to build a consensus from your own alignment according to your
+preferences.
+Consensus Maker Explanation page
+<https://www.hiv.lanl.gov/content/sequence/CONSENSUS/AdvConExplain.html>
+shows the output format options.
+Ancestral Tree Construction
+<https://www.hiv.lanl.gov/content/sequence/HIV/CONSENSUS/PREBUILT/AncestralTree.html>
+explanation file.
+M-group Consensus Construction
+<https://www.hiv.lanl.gov/content/sequence/HIV/CONSENSUS/M_GROUP/M_group_explanation>
+explanation file.
+Codes and Symbols in Sequence Alignments
+<https://www.hiv.lanl.gov/content/sequence/HelpDocs/IUPAC.html>
+
+
+
+------------------------------------------------------------------------
+
+
+    RIP Alignment
+
+This genome-length alignment serves as the Custom Background for the RIP
+<https://www.hiv.lanl.gov/content/sequence/RIP/RIP.html> web tool. This
+alignment has been assembled less systematically than the other
+alignments offered here, meaning that the sequences have been added in
+various years, as they have become available. We offer it because it has
+proven useful for a variety of purposes.
+
+This alignment contains:
+
+  * Consensus sequences made in 2004 for subtypes A1, B, C, D, F1, F2,
+    G, H and CRF01.
+  * Consensus sequences made in 2004 for groups O and N.
+  * Consensus sequences made in 2012 for subtypes A2 and J.
+  * Subtype reference sequences for each subtype (A-K) and group (O-P).
+    In most cases there are 4 sequences per subtype/group; in some cases
+    there were fewer than 4 available for inclusion.
+  * A single subtype reference sequence for CRF02 upward. All CRFs are
+    included, up to the number that existed at the time the alignment
+    was last updated. 
+
+
+        Relevant links
+
+Recombinant Identification Program (RIP)
+<https://www.hiv.lanl.gov/content/sequence/RIP/RIP.html>
+Circulating Recombinant Forms (CRFs)
+
+ 
+
+ 
+last modified: Thu Sep 29 12:20 2016
+
+
+Questions or <http://validator.w3.org/check?uri=referer> comments?
+Contact us at seq-info@lanl.gov <mailto:seq-info@lanl.gov>.
+
+ 
+ 

@@ -1,0 +1,11 @@
+I generated these simulated genomes using the following input files and parameters:
+
+fasta: fasta/S.cerevisiae.S288c.fasta
+elong rates: elongation_rates/S.cerevisiae.PNAS.elongation.rates.tsv (not elongation times!)
+expression rates: expression_data/S.cerevisiae.beyer.rescaled.tsv (rescaled to make mean phi = 1)
+mutation rates: mutation_rates/S.cerevisiae.PNAS.mutation.rates.tsv
+
+Scaling factor Q: 1
+Population Size Ne: 1
+
+I ran the simulation for an amount of time that should allow on average 50 substitutions per codon. 

@@ -1,0 +1,15 @@
+
+Codon Evolution Simulation (CES) Version 0.9
+The code was executed on Wed Mar 13 03:28:28 2019
+
+Input file : ./fasta/S.cerevisiae.S288.beyer.phi.fasta
+tRNA file : tRNA_files/S.cerevisiae.tRNA.tsv
+Output : output/out_Phi=10.0
+No. of sequences : 5508
+Evolution Run time : -20.000000
+Ignore last AA: 0,
+Runtimes (Read, Computation, Print, Total) : 0.0612	0.0000	7553.4986	7553.4986 seconds
+
+
+Command line arguments used to run code: 
+	./bin/CESpop -F ./fasta/S.cerevisiae.S288.beyer.phi.fasta ./tRNA_files/S.cerevisiae.tRNA.tsv -P 10.0 -o output/out_Phi=10.0 

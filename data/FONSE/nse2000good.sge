@@ -1,0 +1,8 @@
+#$ -pe threads 16
+#$ -N NSE2000fromGoodValues 
+#$ -q short*
+#$ -cwd
+#$ -m e
+#$ -M jroger44@vols.utk.edu
+module load R/3.1.0
+Rscript runNSE2000fromGoodValues.R

@@ -1,0 +1,58 @@
+ sAdrian J Cross partition function log for FONSE partition function estimation.
+
+06/03/19- Compiled using g++ ../source/CES.c -g -lgsl -lgslcblas -lm -mtune=native -o CES
+runs from CES 1.0 subdirectory using
+./bin/CES -F ./fasta/S.cerevisiae.S288.beyer.phi.fasta ./tRNA_files/S.cerevisiae.tRNA.tsv -M -1
+
+07/03/19- Started splitting code into header files, global_variables.h & read_file.h
+
+08/03/19- Created CESedit file copied from CES for cutting function and testing using the header files
+
+11/03/19- CESpop copies from CES in order to alter population size and protein prod rate for testing (changed these from definitions to variables). CESpop can read in protein prod rate
+Shell script varypop used to output files at various population size for comparison
+for Ne values of 1.36E7 1.36E6 1.36E5 1.36E4 1.36E3 1.36E2
+varyproteinprod does the same for varying protein prod rate scaled by an input
+0.1 0.5 1.0 10.0 100.0
+
+12/03/19- CESpop uses -P to edit production rate scaling (default is 1)
+P value being read in and error working for P<0
+g++ ../source/CESpop.c -g -lgsl -lgslcblas -lm -mtune=native -o CESpop used to compile CESpop
+don't use scale_phi.R to edit fasta file for custom scaling
+varyproteinprod.sh is running
+
+
+Fasta_to_AA used to convert codons to their AA, compiled using g++ -o Fasta_to_AA.cpp FASTA_to_AA.cpp
+
+./header_files/Fasta_to_AA.cpp -F fasta/S.cerevisiae.S288.beyer.phi.fasta -T tRNA_files/S.cerevisiae.tRNA.tsv 
+
+
+	fprintf(outfile, "ORF\t");
+      fprintf(outfile, "phi\t");
+      fprintf(outfile, "Evolve Steps\t");
+      fprintf(outfile, "Evolve Time\t");
+      fprintf(outfile, "Eta_initial\t");
+      fprintf(outfile, "Eta_final\t");
+      fprintf(outfile, "Final \\Delta Eta\t");
+      fprintf(outfile, "Mean Mutation \\Delta Eta\t");
+      fprintf(outfile, "Var Mutation \\Delta Eta\t");
+      fprintf(outfile, "# Fix\n");
+	id_start=0;
+	fclose(outfile);
+  }
+
+   strcpy(filename, out_prefix);
+    strcat(filename,".evol.summary.tsv");
+    outfile=fopen(filename,"a+");
+
+  for(i=id_start; i<=id_stop; i++){
+    fprintf(outfile, "%s\t", Seq[i].id);
+    fprintf(outfile, "%.4g\t", Seq[i].phi_obs);
+    fprintf(outfile, "%d\t", Seq[i].evol_steps);
+    fprintf(outfile, "%.0f\t", Seq[i].evol_time);
+    fprintf(outfile, "%.3f\t", Seq[i].eta_initial);
+    fprintf(outfile, "%.3f\t", Seq[i].eta_obs);
+    fprintf(outfile, "%.3f\t", Seq[i].eta_initial - Seq[i].eta_obs);
+    fprintf(outfile, "%.4g\t", Seq[i].delta_eta_mean);
+    fprintf(outfile, "%.4g\t", Seq[i].delta_eta_var);
+    fprintf(outfile, "\n");
+

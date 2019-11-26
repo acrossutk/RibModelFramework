@@ -1,0 +1,32 @@
+/*Header files adapted from Codon Evolution Simulation (CES)*/
+/* Software Description
+
+
+   Codon Evolution Simulation (CES)
+   Stochastic simulation of the evolution of a codon sequence under selection against nonsense errors.
+
+   This software was developed as part of
+
+	"Gilchrist, M.A., P. Shah, and R. Zaretzki (2009 or 2010 depending on final publication date). 
+	Measuring and detecting molecular adaptation in codon usage against nonsense errors 
+	during protein translation. Genetics"
+
+This work should be cited when this software is modified or used.
+
+
+*/
+
+/* Software License
+
+   CES is free software: you can redistribute it and/or modify it under the terms of the 
+   GNU General Public License (GPL) Version 2 as published by the Free Software Foundation 
+   at http://www.gnu.org/licenses.
+
+   This software is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied
+   warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License 
+   for more details. 
+
+   Users are free to distribute and modify this software according to this license so long as this and all of the
+   statements above  are not removed or modified.
+
+*/

@@ -1,0 +1,15 @@
+
+Codon Evolution Simulation (CES) Version 0.9
+The code was executed on Thu Jul 25 14:20:31 2013
+
+Input file : ../../../preston/data/fasta/S.cerevisiae.S288c.fasta
+tRNA file : ../../../preston/data/elongation_rates/S.cerevisiae.PNAS.elongation.rates.tsv	Mutation File : ../../../preston/data/mutation_rates/S.cerevisiae.PNAS.mutation.rates.tsv
+Output : output/S.cerevisiae.S288c.REU.sim.b-0.1
+No. of sequences : 5530
+Evolution Run time : -50.000000
+Ignore last AA: 0,
+Runtimes (Read, Computation, Print, Total) : 0.3943	0.1513	0.5068	2.4882 seconds
+
+
+Command line arguments used to run code: 
+	./CES -F ../../../preston/data/fasta/S.cerevisiae.S288c.fasta -T ../../../preston/data/elongation_rates/S.cerevisiae.PNAS.elongation.rates.tsv -U1 ../../../preston/data/mutation_rates/S.cerevisiae.PNAS.mutation.rates.tsv -P ../../../preston/data/expression_data/S.cerevisiae.beyer.phi.rescaled.tsv -Q 1 -Ne 1 -O output/S.cerevisiae.S288c.REU.sim.b-0.1 -B 0.1 -M -50 

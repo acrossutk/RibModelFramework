@@ -1,0 +1,8 @@
+#$ -pe threads 16
+#$ -N simFONSE_b-0.0001
+#$ -q medium*
+#$ -cwd
+#$ -m e
+#$ -M adixon13@vols.utk.edu
+module load R/3.1.0
+Rscript runSimFONSE_b-0.0001.R

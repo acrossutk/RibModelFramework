@@ -1,0 +1,8 @@
+#$ -pe threads 16
+#$ -N REU_b-0.0001 
+#$ -q medium*
+#$ -cwd
+#$ -m e
+#$ -M jroger44@vols.utk.edu
+module load R/3.1.0
+Rscript runREU_b-0.0001.R
